@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task_DestionProject/static/css/main.756456bf.css",
+    "main.js": "/Task_DestionProject/static/js/main.8b68606c.js",
+    "static/js/453.939f21b9.chunk.js": "/Task_DestionProject/static/js/453.939f21b9.chunk.js",
+    "index.html": "/Task_DestionProject/index.html",
+    "main.756456bf.css.map": "/Task_DestionProject/static/css/main.756456bf.css.map",
+    "main.8b68606c.js.map": "/Task_DestionProject/static/js/main.8b68606c.js.map",
+    "453.939f21b9.chunk.js.map": "/Task_DestionProject/static/js/453.939f21b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756456bf.css",
+    "static/js/main.8b68606c.js"
+  ]
+}
